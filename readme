@@ -1,0 +1,59 @@
+# 💪 Fitness Landing Page
+
+Landing page de fitness desenvolvida com HTML e CSS, com foco em layout moderno, semântico e responsivo.
+
+---
+
+## 🚀 Tecnologias
+
+* HTML5
+* CSS3
+
+---
+
+## 🎯 Objetivo
+
+Praticar a construção de interfaces web, aplicando conceitos de:
+
+* Estruturação semântica com HTML
+* Estilização com CSS
+* Organização de layout
+* Boas práticas de front-end
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="images/preview.png" width="700">
+</p>
+
+---
+
+## ▶️ Como executar
+
+```bash
+# Clonar repositório
+git clone https://github.com/GlawberSantos/fitness-landing-page.git
+
+# Acessar pasta
+cd fitness-landing-page
+
+# Abrir no navegador
+Abra o arquivo index.html
+```
+
+---
+
+## 📌 Melhorias futuras
+
+* Responsividade para mobile
+* Animações com CSS
+* Integração com formulário
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por Glauber Santos
+[LinkedIn](https://www.linkedin.com/in/glauber-santos-346957309)
